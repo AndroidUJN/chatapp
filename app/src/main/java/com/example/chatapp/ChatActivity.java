@@ -59,4 +59,5 @@ public class ChatActivity extends AppCompatActivity {
         Msg msg3 = new Msg("I am fine, too!", Msg.TYPE_RECEIVED);
         msgList.add(msg3);
     }
+
 }
