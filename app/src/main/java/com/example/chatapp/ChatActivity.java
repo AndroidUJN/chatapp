@@ -26,7 +26,7 @@ public class ChatActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         ActionBar actionBar = getSupportActionBar();
-        actionBar.hide();
+
 
         setContentView(R.layout.activity_chat);
 
